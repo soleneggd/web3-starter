@@ -23,7 +23,7 @@ Ces plugins sont ensuite configurés par le fichier de config local `.vscode/set
 ## Installation
 
 - Ouvrir le dossier dans **VSCode**
-- Dans le terminal lancer la commande `git clone https://github.com/notjb/web3-starter.git NOM_DU_PROJET`
+- Dans le terminal lancer la commande `git clone https://github.com/soleneggd/web3-starter.git NOM_DU_PROJET`
 - Lancer la commande `npm install`
 - **Optionnel :** Supprimer le dosier git: `rm -rf .git`
 - **Optionnel :** Mettre à jour `name` dans le fichier `package.json`
